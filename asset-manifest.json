@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ExploreX/static/css/main.6d47950a.css",
+    "main.js": "/ExploreX/static/js/main.883e5556.js",
+    "static/js/453.419a5d54.chunk.js": "/ExploreX/static/js/453.419a5d54.chunk.js",
+    "static/media/1.png": "/ExploreX/static/media/1.60eea034de3c7b074ce5.png",
+    "static/media/rome.png": "/ExploreX/static/media/rome.b07c73fa399221c8bd4f.png",
+    "static/media/night.png": "/ExploreX/static/media/night.0b28d87a32b19f621969.png",
+    "static/media/2.png": "/ExploreX/static/media/2.0c2ee2c0a19bce8a3aae.png",
+    "static/media/maldivs1.png": "/ExploreX/static/media/maldivs1.5c8968763df1be08679d.png",
+    "static/media/paris1.jpg": "/ExploreX/static/media/paris1.1b7745e7c3d41eaa3583.jpg",
+    "static/media/sydney.png": "/ExploreX/static/media/sydney.c3e768fff2c937acfacc.png",
+    "static/media/abu.png": "/ExploreX/static/media/abu.edad6476cff7ede4255d.png",
+    "static/media/12.jpg": "/ExploreX/static/media/12.67df06a76615d7720b73.jpg",
+    "static/media/italy2.png": "/ExploreX/static/media/italy2.59171a35d2d1e7cc2b40.png",
+    "static/media/italy1.png": "/ExploreX/static/media/italy1.38ee9881fdec3d4f1f8e.png",
+    "static/media/maldivs2.png": "/ExploreX/static/media/maldivs2.91b72a0852c326aba422.png",
+    "static/media/paris2.png": "/ExploreX/static/media/paris2.65d5a67dae08ae13ed23.png",
+    "static/media/122.jpg": "/ExploreX/static/media/122.a1f54d701a8e97fcbd83.jpg",
+    "index.html": "/ExploreX/index.html",
+    "main.6d47950a.css.map": "/ExploreX/static/css/main.6d47950a.css.map",
+    "main.883e5556.js.map": "/ExploreX/static/js/main.883e5556.js.map",
+    "453.419a5d54.chunk.js.map": "/ExploreX/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d47950a.css",
+    "static/js/main.883e5556.js"
+  ]
+}
